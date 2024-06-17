@@ -4,7 +4,7 @@ public class Multi {
         a = 9;
         b=5;
         mul = a*b;
-        System.out.println(mul);
+        System.out.println(" The Mul is " + mul);
 
 
     }
